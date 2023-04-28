@@ -35,7 +35,7 @@
   <a href="https://t.me/Nar0kan">
     <img src="https://img.shields.io/badge/Telegram-@Nar0kan-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="nick.kirichenko.dev@gmail.com">
+  <a href="mailto:nick.kirichenko.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nick.kirichenko.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nikita-kirichenko-781062251/">
