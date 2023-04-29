@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Gmail-nick.kirichenko.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nikita-kirichenko-781062251/">
-    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
 <br/>
