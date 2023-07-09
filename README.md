@@ -31,7 +31,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;</p>
   <p>Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GIT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
-<br/><hr/>
+<br/>
+
+### Projects :
+<div align="center">
+  IngotCRM
+</div>
+  <ul>
+    <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
+    <li><a href="https://ingot-crm.vercel.app/" target="_blank">Demo</a></li>
+  </ul>
+
+<div align="center">
+  Portfolio
+</div>
+  <ul>
+    <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
+    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Demo</a></li>
+  </ul>
+<br>
 
 <div id="badges" align="center">
   <h2>📫 How to reach me. The best ways:</h2>
