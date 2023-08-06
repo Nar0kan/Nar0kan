@@ -5,31 +5,37 @@
 
 <h3>
   <ul>
-  👋 <strong>Hello, this is @Nar0kan's profile.</strong> I am a student at National Aviation University, Kyiv - Cybersecurity.
+  👋 <strong>Hello, this is @Nar0kan's profile.</strong> I am a self-taught Web-Developer and QA.
   <br/>
   <h5>
     <li> I am interested in programming, especially what touches web-dev and game-dev.</li>
-    <li> Self-study web-development and practice algorithms.</li>
-    <li> I am looking to collaborate on OSU! or python projects that are closely associated with gaming or services.</li>
-    <li> Crazy about Japan cities and in general </li>
+    <li> Self-study web-development and practice algorithms, cryptography, databases, scrum and more.</li>
+    <li> I am looking to collaborate on any low-entry or just some python projects that are closely associated with gaming or services.</li>
+    <li> I'm crazy about Japan, it's people's hard work and industrial progress. </li>
     </ul>
   </h5>
 </h3><hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <p><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;</p>
-  <p>Python &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS &nbsp;&nbsp;</p>
-  <p><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" title="SQLite" alt="SQLite" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-  <p>Django &nbsp;&nbsp;&nbsp;&nbsp; SQLite &nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;</p>
-  <p><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;</p>
-  <p>Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GIT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div align="left">
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
+  </p>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  </p>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  </p>
 </div>
 <br/>
 
@@ -39,15 +45,25 @@
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
-    <li><a href="https://ingot-crm.vercel.app/" target="_blank">Demo</a></li>
+    <li><a href="https://ingot-crm.vercel.app/" target="_blank">View demo...</a></li>
   </ul>
+<br>
+
+<div align="center">
+  IngotStore
+</div>
+  <ul>
+    <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
+    <li><a href="https://ingot-store-6876b1ee7d4d.herokuapp.com/#/" target="_blank">View demo...</a></li>
+  </ul>
+<br>
 
 <div align="center">
   Portfolio
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
-    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Demo</a></li>
+    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">View demo...</a></li>
   </ul>
 <br>
 
