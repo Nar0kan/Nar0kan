@@ -3,18 +3,16 @@
   <img src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47aqibok6qgzftt6cgpjs14a6peck8mnqbpmf4bmmd&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div><br/>
 
-<h3>
-  <ul>
-  👋 <strong>Hello, I'm @Nar0kan | Nikita Kirichenko.</strong> QA Engineer.
-  <br/>
-  <h5>
-    <li> I am interested in programming, especially what touches web dev, e-commerce, and game dev.</li>
-    <li> I am familiar with web development and have been practicing algorithms, cryptography, databases, APIs, and more.</li>
-    <li> I am looking to collaborate on any low-entry projects that are created to improve or adapt processes that people will use.</li>
-    <li> I'm crazy about Japan, and I am willing to live in this beautiful country. </li>
-    </ul>
-  </h5>
-</h3><hr/>
+
+<h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko.</strong> QA Engineer.</h3>
+<br/>
+<ul>
+  <li> I am interested in programming, especially what touches web dev, e-commerce, and game dev.</li>
+  <li> I am familiar with web development and have been practicing algorithms, cryptography, databases, APIs, and more.</li>
+  <li> I am looking to collaborate on any low-entry projects that are created to improve or adapt processes that people will use.</li>
+  <li> I'm crazy about Japan, and I am willing to live in this beautiful country. </li>
+</ul>
+<hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="left">
@@ -40,7 +38,7 @@
 <br/>
 
 ### Projects :
-<div align="center">
+<div>
   IngotCRM
 </div>
   <ul>
@@ -49,7 +47,7 @@
   </ul>
 <br>
 
-<div align="center">
+<div>
   Portfolio as a QA Engineer
 </div>
   <ul>
@@ -58,7 +56,7 @@
   </ul>
 <br>
 
-<div align="center">
+<div>
   IngotStore
 </div>
   <ul>
@@ -67,7 +65,7 @@
   </ul>
 <br>
 
-<div align="center">
+<div>
   Portfolio as a Web Dev
 </div>
   <ul>
