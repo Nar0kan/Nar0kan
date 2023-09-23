@@ -5,13 +5,13 @@
 
 <h3>
   <ul>
-  👋 <strong>Hello, this is @Nar0kan's profile.</strong> I am a self-taught Web-Developer and QA.
+  👋 <strong>Hello, I'm @Nar0kan | Nikita Kirichenko.</strong> QA Engineer.
   <br/>
   <h5>
-    <li> I am interested in programming, especially what touches web-dev and game-dev.</li>
-    <li> Self-study web-development and practice algorithms, cryptography, databases, scrum and more.</li>
-    <li> I am looking to collaborate on any low-entry or just some python projects that are closely associated with gaming or services.</li>
-    <li> I'm crazy about Japan, it's people's hard work and industrial progress. </li>
+    <li> I am interested in programming, especially what touches web dev, e-commerce, and game dev.</li>
+    <li> I am familiar with web development and have been practicing algorithms, cryptography, databases, APIs, and more.</li>
+    <li> I am looking to collaborate on any low-entry projects that are created to improve or adapt processes that people will use.</li>
+    <li> I'm crazy about Japan, and I am willing to live in this beautiful country. </li>
     </ul>
   </h5>
 </h3><hr/>
@@ -50,16 +50,25 @@
 <br>
 
 <div align="center">
-  IngotStore
+  Portfolio as a QA Engineer
 </div>
   <ul>
-    <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
-    <li><a href="https://ingot-store-6876b1ee7d4d.herokuapp.com/#/" target="_blank">View demo...</a></li>
+    <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
+    <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">View demo...</a></li>
   </ul>
 <br>
 
 <div align="center">
-  Portfolio
+  IngotStore
+</div>
+  <ul>
+    <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
+    <li><a href="#" target="_blank">View demo... (Not available at the moment)</a></li>
+  </ul>
+<br>
+
+<div align="center">
+  Portfolio as a Web Dev
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
