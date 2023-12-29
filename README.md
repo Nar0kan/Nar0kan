@@ -8,9 +8,9 @@
 <br/>
 <ul>
   <li> I am interested in programming, especially what touches web dev, e-commerce, and game dev.</li>
-  <li> I am familiar with web development and have been practicing algorithms, cryptography, databases, APIs, and more.</li>
-  <li> I am looking to collaborate on any low-entry projects that are created to improve or adapt processes that people will use.</li>
-  <li> I'm crazy about Japan, and I am willing to live in this beautiful country. </li>
+  <li> I am familiar with web development, algorithms, cryptography, databases, APIs, and more.</li>
+  <li> Feel free to contact me, and comment on my code/approaches, thus I'm ready to collaborate.</li>
+  <li> I'm crazy about Japan and willing to visit it. </li>
 </ul>
 <hr/>
 
