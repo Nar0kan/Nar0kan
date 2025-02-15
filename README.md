@@ -7,79 +7,77 @@
 <h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko </strong></h3>
 <br/>
 <ul>
-  <li>  QA Engineer. Ukrainian, male. </li>
-  <li> I am familiar with QA, web dev, algorithms, cryptography, databases, API's, and embedded systems.</li>
+  <li> QA Engineer. Ukrainian, male. </li>
+  <li> QA, web dev, algorithms, cryptography, databases, APIs, embedded systems, and more.</li>
 </ul>
-<hr/>
+
+<br>
+<div id="badges" align="center">
+  <h2>📫 Reach me</h2>
+  <a href="https://t.me/Nar0kan" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Telegram-@Nar0kan-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:nick.kirichenko.dev@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Gmail-nick.kirichenko.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-kirichenko-781062251/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
+  </a>
+</div>
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools
-<div align="left">
+<div align="center">
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   </p>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
   </p>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="50"/>&nbsp;
   </p>
 </div>
 <br/>
 
 ### Projects
-<div>
-  IngotCRM
+<div id="projects" align="center" style="justify-content:space-evenly">
+  <div>
+    IngotCRM
+  </div>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
+    </ul>
+  
+  <div>
+    Portfolio as a QA Engineer
+  </div>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
+      <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
+    </ul>
+  
+  <div>
+    IngotStore
+  </div>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
+    </ul>
+  
+  <div>
+    Portfolio as a Web Dev
+  </div>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
+      <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
+    </ul>
 </div>
-  <ul>
-    <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
-  </ul>
-<br>
-
-<div>
-  Portfolio as a QA Engineer
-</div>
-  <ul>
-    <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
-    <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
-  </ul>
-<br>
-
-<div>
-  IngotStore
-</div>
-  <ul>
-    <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
-  </ul>
-<br>
-
-<div>
-  Portfolio as a Web Dev
-</div>
-  <ul>
-    <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
-    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
-  </ul>
-<br>
-
-<div id="badges" align="center">
-  <h2>📫 Reach me</h2>
-  <a href="https://t.me/Nar0kan">
-    <img src="https://img.shields.io/badge/Telegram-@Nar0kan-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:nick.kirichenko.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nick.kirichenko.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-kirichenko-781062251/">
-    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
-  </a>
-</div>
-<br/>
 
 <!---
 Nar0kan/Nar0kan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
