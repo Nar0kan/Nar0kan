@@ -3,16 +3,12 @@
   <div id="header" align="center">
     <img src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47aqibok6qgzftt6cgpjs14a6peck8mnqbpmf4bmmd&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
   </div>
-  <br/>
   <h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko </strong> </h3>
-  <br/>
   <ul>
     <li> 💙 QA Engineer. Ukrainian, male. 💛 </li>
     <li> QA, web dev, algorithms, cryptography, databases, APIs, embedded systems, and more. </li>
   </ul>
 </section>
-
-<hr/>
 
 <section id="badges" align="center">
   <h2>📫 Reach me</h2>
@@ -29,8 +25,43 @@
 
 <hr/>
 
+<section id="projects">
+  <h2> ✨ Projects </h2>
+  <div class="project">
+    <h4>Portfolio | QA Engineer</h4>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
+      <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <h4>Portfolio | Web Dev</h4>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
+      <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <h4>IngotCRM | CRM system</h4>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
+    </ul>
+  </div>
+  
+  <div class="project">
+    <h4>IngotStore | E-commerce shop</h4>
+    <ul>
+      <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
+    </ul>
+  </div>
+</section>
+
+<hr/>
+
 <section align="center" id="tools">
-  <h2>### 🛠️: Languages and Tools</h2>
+  <h2> 🛠️ Languages and Tools </h2>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -48,40 +79,6 @@
   </p>
 </section>
 
-<hr/>
-
-<section id="projects" style="display:flex; flex-wrap:wrap; justify-content:space-evenly; gap:20px; text-align:center">
-  <h2>### ✨ Projects</h2>
-  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
-    Portfolio | QA Engineer
-    <ul>
-      <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
-      <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
-    </ul>
-  </div>
-
-  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
-    Portfolio | Web Dev
-    <ul>
-      <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
-      <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
-    </ul>
-  </div>
-
-  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
-    IngotCRM | CRM system
-    <ul>
-      <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
-    </ul>
-  </div>
-  
-  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
-    IngotStore | E-commerce shop
-    <ul>
-      <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
-    </ul>
-  </div>
-</section>
 <!---
 Nar0kan/Nar0kan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
