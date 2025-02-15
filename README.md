@@ -4,17 +4,15 @@
 </div><br/>
 
 
-<h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko.</strong> QA Engineer.</h3>
+<h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko </strong></h3>
 <br/>
 <ul>
-  <li> I am interested in programming, especially what touches web dev, e-commerce, and game dev.</li>
-  <li> I am familiar with web development, algorithms, cryptography, databases, APIs, and more.</li>
-  <li> Feel free to contact me, and comment on my code/approaches, thus I'm ready to collaborate.</li>
-  <li> I'm crazy about Japan and willing to visit it. </li>
+  <li>  QA Engineer. Ukrainian, male. </li>
+  <li> I am familiar with QA, web dev, algorithms, cryptography, databases, API's, and embedded systems.</li>
 </ul>
 <hr/>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div align="left">
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"/>&nbsp;
@@ -37,13 +35,12 @@
 </div>
 <br/>
 
-### Projects :
+### Projects
 <div>
   IngotCRM
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
-    <li><a href="https://ingot-crm.vercel.app/" target="_blank">View demo...</a></li>
   </ul>
 <br>
 
@@ -52,7 +49,7 @@
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
-    <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">View demo...</a></li>
+    <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
   </ul>
 <br>
 
@@ -61,7 +58,6 @@
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
-    <li><a href="#" target="_blank">View demo... (Not available at the moment)</a></li>
   </ul>
 <br>
 
@@ -70,12 +66,12 @@
 </div>
   <ul>
     <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
-    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">View demo...</a></li>
+    <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
   </ul>
 <br>
 
 <div id="badges" align="center">
-  <h2>📫 How to reach me. The best ways:</h2>
+  <h2>📫 Reach me</h2>
   <a href="https://t.me/Nar0kan">
     <img src="https://img.shields.io/badge/Telegram-@Nar0kan-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
@@ -83,7 +79,7 @@
     <img src="https://img.shields.io/badge/Gmail-nick.kirichenko.dev@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nikita-kirichenko-781062251/">
-    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-Nikita_Kirichenko-lightblue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
 </div>
 <br/>
