@@ -1,12 +1,12 @@
 <section id="header">
-  <h1 align="center">ABOUT ME</h1><br/>
+  <h1 align="center">ABOUT ME</h1>
   <div id="header" align="center">
     <img src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47aqibok6qgzftt6cgpjs14a6peck8mnqbpmf4bmmd&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
   </div>
   <h3 align="center"> 👋 <strong> Hello, I'm @Nar0kan | Nikita Kirichenko </strong> </h3>
   <ul>
     <li> 💙 QA Engineer. Ukrainian, male. 💛 </li>
-    <li> QA, web dev, algorithms, cryptography, databases, APIs, embedded systems, and more. </li>
+    <li> ❤️ QA, web dev, algorithms, cryptography, databases, APIs, embedded systems, and more. 🖤 </li>
   </ul>
 </section>
 
@@ -26,7 +26,7 @@
 <hr/>
 
 <section id="projects">
-  <h2> ✨ Projects </h2>
+  <h2 align="center"> ✨ Projects </h2>
   <div class="project">
     <h4>Portfolio | QA Engineer</h4>
     <ul>
