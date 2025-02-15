@@ -50,9 +50,9 @@
 
 <hr/>
 
-<section id="projects" align="center">
+<section id="projects" style="display:flex; flex-wrap:wrap; justify-content:space-evenly; gap:20px; text-align:center">
   <h2>### ✨ Projects</h2>
-  <div>
+  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
     Portfolio | QA Engineer
     <ul>
       <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
@@ -60,7 +60,7 @@
     </ul>
   </div>
 
-  <div>
+  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
     Portfolio | Web Dev
     <ul>
       <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
@@ -68,83 +68,20 @@
     </ul>
   </div>
 
-  <div>
+  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
     IngotCRM | CRM system
     <ul>
       <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
     </ul>
   </div>
   
-  <div>
+  <div class="project" style="background:#f8f9fa; padding:15px; border-radius: 8px; box-shadow:0 2px 4px rgba(0, 0, 0, 0.1); max-width:250px;flex:1 1 250px">
     IngotStore | E-commerce shop
     <ul>
       <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
     </ul>
   </div>
 </section>
-
-<hr/>
-
-<section id="projects">
-  <h2>### ✨ Projects</h2>
-  <div class="project">
-    Portfolio | QA Engineer
-    <ul>
-      <li><a href="https://github.com/Nar0kan/qa-portfolio/" target="_blank">Repository</a></li>
-      <li><a href="https://nar0kan.github.io/qa-portfolio/" target="_blank">Visit website</a></li>
-    </ul>
-  </div>
-
-  <div class="project">
-    Portfolio | Web Dev
-    <ul>
-      <li><a href="https://github.com/Nar0kan/Final-Project" target="_blank">Repository</a></li>
-      <li><a href="https://nar0kan.github.io/Final-Project/about.html" target="_blank">Visit website</a></li>
-    </ul>
-  </div>
-
-  <div class="project">
-    IngotCRM | CRM system
-    <ul>
-      <li><a href="https://github.com/Nar0kan/IngotCRM" target="_blank">Repository</a></li>
-    </ul>
-  </div>
-  
-  <div class="project">
-    IngotStore | E-commerce shop
-    <ul>
-      <li><a href="https://github.com/Nar0kan/Ingot-Store" target="_blank">Repository</a></li>
-    </ul>
-  </div>
-</section>
-
-<style>
-  #projects {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap: 20px;
-    text-align: center;
-  }
-
-  .project {
-    background: #f8f9fa;
-    padding: 15px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    max-width: 250px;
-    flex: 1 1 250px; /* Flexible but maintains width */
-  }
-
-  @media (max-width: 600px) {
-    #projects {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
-
-
 <!---
 Nar0kan/Nar0kan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
