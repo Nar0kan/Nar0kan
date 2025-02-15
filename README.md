@@ -12,7 +12,7 @@
 
 <section id="badges" align="center">
   <h2>📫 Reach me</h2>
-  <a href="https://t.me/Nar0kan" style="text-decoration:none">
+  <a href="https://t.me/Nar0kan">
     <img src="https://img.shields.io/badge/Telegram-@Nar0kan-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="mailto:nick.kirichenko.dev@gmail.com" style="text-decoration:none">
@@ -61,7 +61,7 @@
 <hr/>
 
 <section align="center" id="tools">
-  <h2> 🛠️ Languages and Tools </h2>
+  <h2 align="center"> 🛠️ Languages and Tools </h2>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
